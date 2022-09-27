@@ -7,3 +7,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 # Actvity 2
 ![Screenshot of Activity 2 commit](/images/activity2-2.jpg)
+
+# Actvity 3
+![Screenshot of Activity 3 commit](/images/activity3.jpg)
